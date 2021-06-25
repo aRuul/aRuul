@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aRuul
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Metrics](https://metrics.lecoq.io/aRuul?template=classic&config.timezone=Asia%2FShanghai)
+
+[![aRu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aRuul)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![aRu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aRuul&layout=compact&hide_border=true&langs_count=10) -->
+
 
 <!---
 aRuul/aRuul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
